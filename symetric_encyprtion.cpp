@@ -1,8 +1,3 @@
-/**
- * @copyright Copyright (c) by Versatile Ag.
- *            All rights reserved.
- *  Author: skumara@versatile-ag.com
-*/
 #include "symetric_encyprtion.h"
 #include <QDebug>
 
