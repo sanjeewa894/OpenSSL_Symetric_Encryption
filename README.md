@@ -1,1 +1,2 @@
-#Qt C++ program to encrypt and decrypt file using openssl symetric key
+Qt C++ program to encrypt and decrypt file using openssl symetric key
+
